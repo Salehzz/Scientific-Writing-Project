@@ -1,0 +1,680 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7300 64-bit) (preloaded format=xelatex 2020.8.15)  16 AUG 2020 05:33
+entering extended mode
+**./Combination(XePersian).tex
+(Combination(XePersian).tex
+LaTeX2e <2020-02-02>
+L3 programming layer <2020-02-03>
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
+"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
+"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen135
+))
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+) ("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count171
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count172
+\leftroot@=\count173
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count174
+\DOTSCASE@=\count175
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count176
+\c@MaxMatrixCols=\count177
+\dotsspace@=\muskip16
+\c@parentequation=\count178
+\dspbrk@lvl=\count179
+\tag@help=\toks15
+\row@=\count180
+\column@=\count181
+\maxfields@=\count182
+\andhelp@=\toks16
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks17
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\xetex.
+def"
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks25
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xepersian\xepersi
+an.sty"
+Package: xepersian 2020/05/17 v23.1 Persian typesetting in XeLaTeX
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.s
+ty"
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\x
+parse.sty"
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-02-03 L3 programming layer (loader) 
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend
+-xdvipdfmx.def"
+File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count183
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count184
+\g__pdf_backend_annotation_int=\count185
+))
+Package: xparse 2020-02-03 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count186
+\g__xparse_grabber_int=\count187
+\l__xparse_m_args_int=\count188
+\l__xparse_v_nesting_int=\count189
+)
+Package: fontspec 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTeX
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec-x
+etex.sty"
+Package: fontspec-xetex 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count190
+\l__fontspec_language_int=\count191
+\l__fontspec_strnum_int=\count192
+\l__fontspec_tmp_int=\count193
+\l__fontspec_tmpa_int=\count194
+\l__fontspec_tmpb_int=\count195
+\l__fontspec_tmpc_int=\count196
+\l__fontspec_em_int=\count197
+\l__fontspec_emdef_int=\count198
+\l__fontspec_strong_int=\count199
+\l__fontspec_strongdef_int=\count266
+\l__fontspec_tmpa_dim=\dimen146
+\l__fontspec_tmpb_dim=\dimen147
+\l__fontspec_tmpc_dim=\dimen148
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/01/25 v2.0m Standard LaTeX package
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.c
+fg")))
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xepersian\xepersi
+an-persiancal.sty"
+Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
+\XePersian@i=\count267
+\XePersian@y=\count268
+\XePersian@m=\count269
+\XePersian@d=\count270
+\XePersian@latini=\count271
+\XePersian@persiani=\count272
+\XePersian@latinii=\count273
+\XePersian@persianii=\count274
+\XePersian@latiniii=\count275
+\XePersian@persianiii=\count276
+\XePersian@latiniv=\count277
+\XePersian@persianiv=\count278
+\XePersian@latinv=\count279
+\XePersian@persianv=\count280
+\XePersian@latinvi=\count281
+\XePersian@persianvi=\count282
+\XePersian@latinvii=\count283
+\XePersian@persianvii=\count284
+\XePersian@latinviii=\count285
+\XePersian@persianviii=\count286
+\XePersian@latinix=\count287
+\XePersian@persianix=\count288
+\XePersian@latinx=\count289
+\XePersian@persianx=\count290
+\XePersian@latinxi=\count291
+\XePersian@persianxi=\count292
+\XePersian@latinxii=\count293
+\XePersian@persianxii=\count294
+\XePersian@persianxiii=\count295
+\XePersian@temp=\count296
+\XePersian@temptwo=\count297
+\XePersian@tempthree=\count298
+\XePersian@yModHundred=\count299
+\XePersian@thirtytwo=\count300
+\XePersian@dn=\count301
+\XePersian@sn=\count302
+\XePersian@mminusone=\count303
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xepersian\xepersi
+an-mathsdigitspec.sty"
+Package: xepersian-mathsdigitspec 2018/12/16 v1.1.7 Unicode Persian maths digit
+s in XeLaTeX
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/bidi\bidi.sty"
+Package: bidi 2020/05/17 v36.3 Bidirectional typesetting in plain TeX and LaTeX
+
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2020 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v36.3, 2020/05/17
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/persiantex/bidi/issues
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/bidi\biditools.st
+y"
+Package: biditools 2020/05/13 v2 Programming tools for bidi package
+\@bidi@envbody=\toks26
+\@bidi@emptytoks=\toks27
+\bidi@poscount=\count304
+\bidi@tempcountb=\count305
+\bidi@temptoksa=\toks28
+\bidi@temptoksb=\toks29
+\bidi@dummies=\count306
+\bidi@are@these@correct=\toks30
+\bidi@toks@lista=\toks31
+\bidi@toks@listb=\toks32
+\bidi@stack@length=\count307
+\bidi@empty@stack=\toks33
+\bidi@looprepeat@depth=\count308
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/zref\zref-abspage.s
+ty"
+Package: zref-abspage 2020-05-28 v2.31 Module abspage for zref (HO)
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/zref\zref-base.sty"
+Package: zref-base 2020-05-28 v2.31 Module base for zref (HO)
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.s
+ty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infware
+rr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetke
+ys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvde
+finekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcm
+ds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmds
+.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty
+"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 763.
+Package zref Info: New property: default on input line 764.
+Package zref Info: New property: page on input line 765.
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegshi
+.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\c@abspage=\count309
+Package zref Info: New property: abspage on input line 66.
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty
+"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.t
+ex"
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.
+tex"
+\XKV@toks=\toks34
+\XKV@tempa@toks=\toks35
+)
+\XKV@depth=\count310
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\@bidi@copyins@=\insert252
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/bidi\latex-xetex-
+bidi.def"
+File: latex-xetex-bidi.def 2019/03/03 v1.3.7 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks36
+\bidi@column@check@number=\count311
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/bidi\footnote-xet
+ex-bidi.def"
+File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count312
+\footdir@toks=\toks37
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/bidi\article-xete
+x-bidi.def"
+File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard arti
+cle class for XeTeX engine
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/bidi\amsmath-xete
+x-bidi.def"
+File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath packa
+ge for XeTeX engine
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/bidi\amstext-xete
+x-bidi.def"
+File: amstext-xetex-bidi.def 2016/09/12 v0.2 bidi adaptations for amstext packa
+ge for XeTeX engine
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/bidi\amsthm-xetex
+-bidi.def"
+File: amsthm-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for amsthm package
+ for XeTeX engine
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/bidi\graphicx-xet
+ex-bidi.def"
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx pac
+kage for XeTeX engine
+))
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/bidi\loadingorder
+-xetex-bidi.def"
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
+ last package loaded
+)
+\bidi@digits=\count313
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2020 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v23.1, 2020/05/17
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/persiantex/xepersian/issues
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+\xepersian@tcl=\count314
+\xepersian@ilg=\dimen149
+\xepersian@strutilg=\dimen150
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xepersian\loading
+order-xepersian.def"
+File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
+the last package loaded
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xepersian\footnot
+e-xepersian.def"
+File: footnote-xepersian.def 2017/08/09 v0.6 footnote macros for xepersian pack
+age
+)
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xepersian\article
+-xepersian.def"
+File: article-xepersian.def 2010/07/25 v0.2 adaptations for standard article cl
+ass
+)
+
+Package fontspec Info: Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalic
+Font={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmroma
+ncaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromans
+lant10-bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;map
+ping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mappin
+g=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapp
+ing=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dfl
+t;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;
+mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;m
+apping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+
+)
+
+Package fontspec Info: Font family 'XBNiloofar.ttf(0)' created for font 'XB
+(fontspec)             Niloofar.ttf' with options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX,ExternalLocation].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"[XB
+(fontspec)             Niloofar.ttf]/OT:script=arab;language=dflt;mapping=persi
+an-tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+ (Combination(XePersian).aux)
+\openout1 = `Combination(XePersian).aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
+.
+
+("C:\Users\Rabo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+\AtBeginShipoutBox=\box48
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
+(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 13.
+
+Missing character: There is no ا in font [lmroman10-regular]/OT:script=latn;lan
+guage=dflt;mapping=tex-text;!
+Missing character: There is no ز in font [lmroman10-regular]/OT:script=latn;lan
+guage=dflt;mapping=tex-text;!
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1
+
+] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+[][]
+ []
+
+Missing character: There is no ، in font cmr12!
+Missing character: There is no ، in font cmr12!
+Missing character: There is no ، in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--69
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--69
+[][]
+ []
+
+[3]
+Missing character: There is no … in font cmr12!
+Missing character: There is no … in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[][]
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[][]
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+[][]\TU/lmroman10-regular(0)/m/n/12 https://en.wikipedia.org/wiki/Combination$\
+OML/cmm/m/it/12 ]$\TU/lmroman10-regular(0)/m/n/12 Number_of_k-[]
+ []
+
+[6] (Combination(XePersian).aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6679 strings out of 414621
+ 160950 string characters out of 2907434
+ 502370 words of memory out of 3000000
+ 23666 multiletter control sequences out of 15000+200000
+ 535932 words of font info for 59 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 52i,14n,71p,1121b,295s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on Combination(XePersian).pdf (6 pages).
